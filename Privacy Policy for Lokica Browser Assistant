@@ -1,0 +1,30 @@
+Privacy Policy for Lokica Browser Assistant
+English Version
+Lokica is designed to assist users in managing their windows, tabs, bookmarks, and browsing history efficiently. Below is a detailed explanation of the required permissions and their purposes:
+
+Single Purpose
+Lokica focuses solely on improving browser navigation and management, including organizing tabs, bookmarks, and history.
+
+Reason for Using Remote Code
+Remote code is used to ensure Lokica remains up-to-date with the latest features and security enhancements, delivering a seamless and secure user experience.
+
+Reason for Using Host Permissions
+Lokica requires host permissions to access browser-specific features, such as tab and bookmark management, which are essential for its core functionality.
+
+Reason for Using bookmarks Permission
+The bookmarks permission allows Lokica to manage and provide quick access to your bookmarks, making it easier to organize and retrieve important resources.
+
+Reason for Using history Permission
+Lokica uses the history permission to help you search and manage your browsing history, enabling efficient retrieval of previously visited sites.
+
+Reason for Using scripting Permission
+The scripting permission enables Lokica to dynamically interact with your browser’s elements, such as closing or navigating tabs, ensuring smooth operation.
+
+Reason for Using sidePanel Permission
+The sidePanel permission allows Lokica to display and manage its interface within the browser side panel for a better user experience.
+
+Reason for Using storage Permission
+Lokica uses the storage permission to save user preferences, notes, and settings locally, ensuring your customizations are preserved.
+
+Reason for Using tabs Permission
+The tabs permission is essential for Lokica to manage your open tabs, including navigation, reorganization, and closure.
